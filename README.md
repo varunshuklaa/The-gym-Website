@@ -7,8 +7,9 @@ Responsive Design: The website is fully responsive, ensuring an optimal viewing 
 Clean Layout: A minimalistic design with a focus on easy navigation and clear presentation of information.
 Information Sections: Dedicated sections for gym services, membership plans, trainer profiles, and contact information.
 Visual Appeal: Use of CSS for styling to create a visually engaging and professional appearance.
+
 Technologies Used
 HTML: Structuring the content of the website.
 CSS: Styling the website, including layout, colors, fonts, and responsive design elements.
 
-Take a look at the live version: 
+Take a look at the live version: https://varunshuklaa.github.io/The-gym-Website/
